@@ -1,0 +1,10 @@
+/home/kitada/SHIFTWEB/Shiftweb-ControlPanel2/extlib/bin/package-stash-conflicts
+/home/kitada/SHIFTWEB/Shiftweb-ControlPanel2/extlib/lib/perl5/Package/Stash.pm
+/home/kitada/SHIFTWEB/Shiftweb-ControlPanel2/extlib/lib/perl5/Package/Stash/Conflicts.pm
+/home/kitada/SHIFTWEB/Shiftweb-ControlPanel2/extlib/lib/perl5/Package/Stash/PP.pm
+/usr/bin/package-stash-conflicts
+/usr/lib/perl5/site_perl/5.8.8/Package/Stash.pm
+/usr/lib/perl5/site_perl/5.8.8/Package/Stash/Conflicts.pm
+/usr/lib/perl5/site_perl/5.8.8/Package/Stash/PP.pm
+/usr/share/man/man3/Package::Stash.3pm
+/usr/share/man/man3/Package::Stash::PP.3pm
