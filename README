@@ -1,0 +1,4 @@
+Catalyst 5.7 extlib
+
+perl -I extlib/lib/perl5 -I lib script/myapp_server.pl
+
